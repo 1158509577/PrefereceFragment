@@ -1,6 +1,6 @@
 # PrefereceFragment
 ## 首页Preference Screen
-```
+~~~
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <PreferenceCategory
@@ -67,4 +67,4 @@
             android:defaultValue="false"/>
     </PreferenceCategory>
 </PreferenceScreen>
-```
+~~~
